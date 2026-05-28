@@ -1,61 +1,63 @@
-# Duyen B. Nguyen
-
-### Computational Chemistry Researcher
-
-Welcome to my academic portfolio website.
-
+---
+layout: default
 ---
 
-## About
+<div class="container">
 
-I am computational materials scientist. I experience in electronic structure calculations and mahcine leanring techniques. 
+  <aside class="sidebar">
+    <h2>Your Name</h2>
+    <p>Computational Chemistry<br>Machine Learning<br>Catalysis</p>
 
----
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#publications">Publications</a>
+      <a href="#cv">CV</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </aside>
 
-## Research
+  <main class="content">
 
-### Project 1
-Description here.
+    <section id="about">
+      <h1>About Me</h1>
+      <p>
+        I am a researcher focusing on computational catalysis, density functional theory,
+        and machine learning for materials discovery.
+      </p>
+    </section>
 
-### Project 2
-Description here.
+    <section id="projects">
+      <h1>Projects</h1>
 
-### Project 3
-Description here.
+      <h3>Project 1</h3>
+      <p>Description of your research project.</p>
 
+      <h3>Project 2</h3>
+      <p>Description of another project.</p>
+    </section>
 
+    <section id="publications">
+      <h1>Publications</h1>
 
----
+      <ul>
+        <li>Paper 1 — Journal Name</li>
+        <li>Paper 2 — Journal Name</li>
+      </ul>
+    </section>
 
-## Publications
+    <section id="cv">
+      <h1>CV</h1>
+      <p>
+        <a href="cv.pdf" target="_blank">Download CV (PDF)</a>
+      </p>
+    </section>
 
-- Detection of Atmospherically Relevant Mixed Mercuric Compounds by Chemical Ionization Mass Spectrometry
-- The electron localization function and the chemical interpretation of Fermi orbital descriptors in Fermi–Löwdin self-interaction correction calculations
-- Bond length alternation of π-conjugated polymers predicted by the Fermi–Löwdin orbital self-interaction correction method
-- Study of Self-Interaction Errors in Density Functional Calculations of Magnetic Exchange Coupling Constants Using Three Self-Interaction Correction Methods
-- Initial Fermi orbital descriptors for FLOSIC calculations: The quick-FOD method
-- Assessment of Electrocatalytic Performance of Metal-Free C-Doped BN Nanoflakes for Oxygen Reduction and Hydrogen Evolution Reactions: A Comparative Study
+    <section id="contact">
+      <h1>Contact</h1>
+      <p>Email: your.email@university.edu</p>
+    </section>
 
----
+  </main>
 
-
-## Teaching and Mentorships
-- Instructed College Physics II and University Physics II laboratory courses, Central Michigan University.
-- Mentored 1 Ph.D. student, 1 M.S. student, 3 undergraduate students, and 2 high school students on research projects in machine learning, experimental chemistry, and computational chemistry. 
-
-
----
-
-
-## Conferences
-
-### 62nd Sanibel Symposium 2023
-
-### APS 2022
-
-### APS 2021
----
-
-## Contact
-
-Email: duyen.nguyen@howard.edu
+</div>
